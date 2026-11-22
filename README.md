@@ -1,3 +1,9 @@
+[![make.fun](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138)
+[![rank](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138/AryFlows/the-plan-make-fun-will-carry-20261122-2138/rank.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138/leaderboard)
+[![reward](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138/AryFlows/the-plan-make-fun-will-carry-20261122-2138/reward.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138)
+
+This is an entry for [the make.fun bounty "the-plan-make-fun-will-carry-20261122-2138"](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138).
+
 # The Plan Make.fun Will Carry
 
 Entry for the make.fun bounty `the-plan-make-fun-will-carry-20261122-2138`.
